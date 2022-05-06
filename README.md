@@ -40,3 +40,5 @@
   <a href = "https://www.instagram.com/jaothedev/">
   <img src="https://img.shields.io/badge/-Instagram-%23333?style=for-the-badge&logo=instagram&logoColor=pink" target="_blank">
 </a>
+  
+ ![Snake animation](https://github.com/prazerjao/prazerjao/blob/output/github-contribution-grid-snake.svg)
