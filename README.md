@@ -11,7 +11,7 @@
 ### Sobre
 
 - 👋🏽 Me chamo João, tenho 19 anos e moro em Brasília-DF.
-- 📚 Estudante de **Engenharia de Software 5/8** na Universidade Católica de Brasília.
+- 📚 Estudante de **Engenharia de Software 6/8** na Universidade Católica de Brasília.
 - 👨🏽‍💻 iOS Developer na **Apple Developer Academy | UCB**.
 - 👦🏽 Iniciei na área desenvolvimento através do C quando entrei na faculdade.
 - 🖥 Atualmente atuando com desenvolvimento para as plataformas Apple.
