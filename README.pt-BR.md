@@ -19,7 +19,7 @@
 
 - 🏆 [Vencedor do Swift Student Challenge 2022](https://github.com/prazerjao/Scholarship-WWDC22): uma cena interativa sobre cuidar de plantas, hobby que aprendi com a minha avó
 - 🍎 Apple Developer Academy | UCB (2021–2022): 6 apps publicados na App Store, entre eles o **Queely**, app para pessoas trans que saiu no G1, Metrópoles e UOL
-- 🎓 Bacharel em Engenharia de Software, Universidade Católica de Brasília (coeficiente 9,35/10)
+- 🎓 Bacharel em Engenharia de Software, Universidade Católica de Brasília (coeficiente 9,33/10)
 - ✅ Professional Scrum Master I (PSM I)
 
 ### Interesses

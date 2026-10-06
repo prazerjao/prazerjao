@@ -19,7 +19,7 @@
 
 - 🏆 [Swift Student Challenge Winner 2022](https://github.com/prazerjao/Scholarship-WWDC22): an interactive scene about caring for plants, a hobby I learned from my grandmother
 - 🍎 Apple Developer Academy | UCB (2021–2022): 6 apps published on the App Store, including **Queely**, an app for trans people featured by G1, Metrópoles and UOL
-- 🎓 B.Sc. in Software Engineering, Universidade Católica de Brasília (GPA 9.35/10)
+- 🎓 B.Sc. in Software Engineering, Universidade Católica de Brasília (GPA 9.33/10)
 - ✅ Professional Scrum Master I (PSM I)
 
 ### Interests
